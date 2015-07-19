@@ -57,7 +57,7 @@
   :bind (("{" . paredit-open-curly)
          ("}" . paredit-close-curly)))
 
-(use-package magit-stg
+(use-package magit-stgit
   :ensure t)
 
 (use-package magit
